@@ -8,4 +8,4 @@ Profesor: Vladimir Villareal
 
 Descripción: El tradicional juego del 8-puzzle consiste, en un tablero con 9 casillas, las cuales van enumeradas del 1 al 8 más una casilla vacía. Dicha casilla vacía, es la que, con movimientos horizontales, verticales, hacia la izquierda o derecha, debe ser desplazada e intercambiada con alguno de sus vecinos, de manera que, dada una configuración inicial se llegue a una configuración final (meta).
 
-Enlace al Video: https://utpac-my.sharepoint.com/:v:/g/personal/kevin_brennan_utp_ac_pa/EffxspFw6elHqUxUVOgZPQwB-MlTuPjweck4O7S48J3rSw?e=GyIXZx
+Enlace al Video de Presentación y Explicación: 
