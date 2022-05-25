@@ -1,0 +1,9 @@
+C:\Users\jason\Documents\Visual Studio 2015\Projects\Lab-IA\Lab-IA\bin\Debug\Lab-IA.exe.config
+C:\Users\jason\Documents\Visual Studio 2015\Projects\Lab-IA\Lab-IA\bin\Debug\Lab-IA.exe
+C:\Users\jason\Documents\Visual Studio 2015\Projects\Lab-IA\Lab-IA\bin\Debug\Lab-IA.pdb
+C:\Users\jason\Documents\Visual Studio 2015\Projects\Lab-IA\Lab-IA\obj\Debug\Lab-IA.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2015\Projects\Lab-IA\Lab-IA\obj\Debug\Lab_IA.Form1.resources
+C:\Users\jason\Documents\Visual Studio 2015\Projects\Lab-IA\Lab-IA\obj\Debug\Lab_IA.Properties.Resources.resources
+C:\Users\jason\Documents\Visual Studio 2015\Projects\Lab-IA\Lab-IA\obj\Debug\Lab-IA.csproj.GenerateResource.Cache
+C:\Users\jason\Documents\Visual Studio 2015\Projects\Lab-IA\Lab-IA\obj\Debug\Lab-IA.exe
+C:\Users\jason\Documents\Visual Studio 2015\Projects\Lab-IA\Lab-IA\obj\Debug\Lab-IA.pdb
