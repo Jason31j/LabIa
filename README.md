@@ -1,4 +1,4 @@
-- Laboratorio De Programación No. 1 - Algoritmos Basados en Búsqueda  -
+- Laboratorio De Programación No. 1 - Algoritmos Basados en Búsqueda  
 
 Se presenta el problema del juego 8 puzzle en Microsoft Visual C#
 
